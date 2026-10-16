@@ -1,0 +1,3 @@
+@echo off
+echo Starting OfflineMate AI Frontend...
+cd frontend && npm run dev
